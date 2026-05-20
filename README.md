@@ -1,46 +1,83 @@
-# Ghostern Gaming Text Tools
+# Ghostern Gaming & Aesthetic Tools
 
 <div align="center">
   <img src="https://ghostern.com/wp-content/uploads/2024/10/Ghostern-logo.png" alt="Ghostern Logo" width="160">
-  <h3>Free Gaming Text & Font Generators</h3>
-  <p>A collection of free online tools made for gamers, streamers, and creators who want high-quality custom text.</p>
+  <h3>Free Tools for Gamers & Creators</h3>
+  <p>A comprehensive collection of online tools for generating gaming fonts, editing images, calculating builds, and finding aesthetic wallpapers. All tools run directly in your browser.</p>
 </div>
 
-## What is this?
+## 🎮 What is Ghostern?
 
-This repository brings together several free tools I built for creating beautiful gaming-style text. Whether you need the classic Dark Souls "YOU DIED" screen, retro pixel text, vaporwave aesthetics, or fancy Discord symbols — everything is here and completely free.
+This repository represents the source code and index for **Ghostern.com**. Originally focused on gaming text generators, it has grown into a hub for gamers and creators. Whether you are looking to create a "YOU DIED" meme, invert colors for a dark mode asset, calculate an Elden Ring build, or find the perfect anime PFP, you will find it here.
 
-## Available Tools
+## 🛠️ Available Tools
 
-| Tool                          | Best For                              | Link |
-|-------------------------------|---------------------------------------|------|
-| Dark Souls Font Generator     | "You Died", boss titles, death screens | [Open Tool](https://ghostern.com/tool/dark-souls-font-generator/) |
-| Pixel Art Font Generator      | 8-bit and 16-bit retro gaming text    | [Open Tool](https://ghostern.com/tool/pixel-art-font-generator/) |
-| Vaporwave Text Generator      | Dreamy aesthetic full-width text      | [Open Tool](https://ghostern.com/tool/vaporwave-text-generator/) |
-| Discord Symbol Generator      | Fancy symbols and server names        | [Open Tool](https://ghostern.com/tool/discord-symbol-generator/) |
-| Minecraft Sign Generator      | Realistic in-game signs               | [Open Tool](https://ghostern.com/tool/minecraft-sign-generator/) |
-| GTA Font Generator            | Bold GTA-style text                   | [Open Tool](https://ghostern.com/tool/gta-font-generator/) |
+### 🅰️ Font & Text Generators
+Create stylish text for your gaming channels, Discord servers, or social media bios.
 
-All tools work directly in your browser with real-time preview and PNG download.
+| Tool | Best For | Link |
+| :--- | :--- | :--- |
+| **Dark Souls Font** | "You Died" screens, boss titles | [Open Tool](https://ghostern.com/gaming/fonts/dark-souls/) |
+| **Pixel Art Font** | Retro 8-bit/16-bit gaming aesthetics | [Open Tool](https://ghostern.com/gaming/fonts/pixel-art/) |
+| **GTA Font** | Bold, grand theft auto style text | [Open Tool](https://ghostern.com/gaming/fonts/gta/) |
+| **Elden Ring Font** | Fantasy RPG style typography | [Open Tool](https://ghostern.com/gaming/fonts/elden-ring/) |
+| **Vaporwave Text** | Aesthetic, full-width, dreamy text | [Open Tool](https://ghostern.com/aesthetic/vaporwave-text-generator/) |
+| **Discord Symbols** | Fancy symbols for server names/nicks | [Open Tool](https://ghostern.com/gaming/symbols/discord/) |
+| **Instagram Fonts** | Stylish bios and captions | [Open Tool](https://ghostern.com/aesthetic/instagram-font-generator/) |
+| **Minecraft Sign** | Realistic in-game wooden sign generator | [Open Tool](https://ghostern.com/gaming/minecraft/sign-generator/) |
 
-## Other Projects
+### 🖼️ Image & Aesthetic Tools
+Utilities to manipulate images and create custom assets.
 
-- [devgurux.com](https://devgurux.com) – Web development tools and resources
-- [trollfacedownload.com](https://trollfacedownload.com) – Fun meme and download collection
+| Tool | Best For | Link |
+| :--- | :--- | :--- |
+| **Image Color Inverter** | Creating negatives, inverting colors for dark mode | [Open Tool](https://ghostern.com/aesthetic/image-color-inverter/) |
+| **Elden Ring Health Bar** | Creating fake "You Died" screenshots | [Open Tool](https://ghostern.com/gaming/elden-ring-health-bar/) |
 
-## Related Resources
+### 🧮 Gaming Calculators
+Min-max your character builds with these dedicated calculators.
 
-If you're looking for wallpapers to go with your custom text, check out the [art-resources repository](https://github.com/sharjeel2025/art-resources) which contains various wallpaper collections.
+| Tool | Game | Link |
+| :--- | :--- | :--- |
+| **Build Calculator** | Dark Souls | [Open Tool](https://ghostern.com/dark-souls-build-calculator/) |
+| **Weapon Calculator** | Elden Ring | [Open Tool](https://ghostern.com/elden-ring-weapon-calculator/) |
 
-## Contributing
+### 🎨 Assets & Inspiration
+Browse curated galleries of wallpapers and profile pictures.
 
-Feel free to open issues or pull requests if you have ideas for new tools or improvements.
+| Category | Content | Link |
+| :--- | :--- | :--- |
+| **Gaming Setups** | Desktop & Mobile Wallpapers (Dark Souls, Elden Ring) | [Browse](https://ghostern.com/gaming/setups/) |
+| **Anime PFPs** | Profile Pictures for Girls & Boys | [Browse](https://ghostern.com/anime/pfp/) |
+| **Anime Wallpapers** | High-quality desktop and mobile backgrounds | [Browse](https://ghostern.com/anime/wallpapers/) |
 
-## License
+## ✨ Features
+
+*   **100% Free:** No hidden costs or subscriptions.
+*   **Privacy First:** Most image and text tools process data locally in your browser.
+*   **Real-time Preview:** See changes instantly as you type or upload.
+*   **High Quality:** Download PNGs and assets suitable for streaming and design.
+
+## 🌐 Other Projects
+
+- **[devgurux.com](https://devgurux.com)** – Web development tools, snippets, and resources for developers.
+- **[trollfacedownload.com](https://trollfacedownload.com)** – A collection of fun memes and downloads.
+
+## 📚 Related Resources
+
+If you are setting up your gaming PC or stream, check out the **[art-resources repository](https://github.com/sharjeel2025/art-resources)** for additional wallpaper collections and assets.
+
+## 🤝 Contributing
+
+Feel free to open issues or pull requests if you have ideas for new tools, spot a bug, or want to improve the documentation.
+
+## 📄 License
 
 MIT License
 
 ---
 
-Made with ❤️ for the gaming community by Sharjeel  
-[Ghostern.com](https://ghostern.com)
+<div align="center">
+  <p>Made with ❤️ for the gaming and anime community by <b>Sharjeel</b></p>
+  <p><a href="https://ghostern.com">Ghostern.com</a></p>
+</div>
