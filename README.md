@@ -4,9 +4,9 @@
 
 <img src="https://ghostern.com/wp-content/uploads/2024/10/Ghostern-logo.png" width="140" alt="Ghostern Logo">
 
-### Gaming Fonts, Aesthetic Generators & Creator Utilities
+### Gaming fonts, aesthetic generators, and simple browser-based tools
 
-Free browser-based tools for gamers, streamers, Discord communities, and anime creators.
+Tools built for gamers, creators, Discord users, and anime communities.
 
 [Visit Ghostern](https://ghostern.com)
 
@@ -14,106 +14,75 @@ Free browser-based tools for gamers, streamers, Discord communities, and anime c
 
 ---
 
-## 🎮 About The Project
+## 🎮 Overview
 
-Ghostern is a collection of online gaming and aesthetic tools designed for creators, gamers, and anime fans.
+Ghostern Gaming Tools is a collection of lightweight browser-based utilities focused on gaming aesthetics, text styling, and simple visual generation tools.
 
-This repository contains the assets, UI concepts, generators, and resource structure behind multiple Ghostern tools including:
+It includes a mix of:
+- font generators
+- game-inspired utilities
+- Discord styling tools
+- visual and aesthetic helpers
 
-* Gaming font generators
-* Discord symbol collections
-* Elden Ring utilities
-* Anime wallpapers & PFPs
-* Minecraft generators
-* Image editing utilities
-
-All tools are designed to work directly in the browser without requiring downloads or signups.
+Everything runs directly in the browser without installation or login.
 
 ---
 
-## ✨ Main Features
+## 🧩 What this includes
 
-* ⚡ Instant browser-based tools
-* 🎨 Gaming & anime aesthetic utilities
-* 🧩 Elden Ring and Dark Souls generators
-* 🖼️ Wallpaper & PFP collections
-* 🔒 Privacy-focused image processing
-* 📱 Mobile-friendly UI
+Some of the tools and sections connected to this project:
 
----
+### Gaming text tools
+- Dark Souls style text generator
+- Elden Ring typography generator
+- GTA inspired font styles
+- Pixel / retro gaming text styles
 
-## 🅰️ Gaming Font Generators
+### Utility tools
+- Elden Ring weapon calculator
+- Dark Souls build planner
+- Minecraft sign generator
+- Discord symbol helper
 
-| Tool                                                                                 | Description                      |
-| ------------------------------------------------------------------------------------ | -------------------------------- |
-| [Dark Souls Font](https://ghostern.com/gaming/fonts/dark-souls/)                     | "YOU DIED" style text generator  |
-| [Elden Ring Font](https://ghostern.com/gaming/fonts/elden-ring/)                     | Fantasy RPG typography generator |
-| [GTA Font](https://ghostern.com/gaming/fonts/gta/)                                   | GTA-inspired title generator     |
-| [Pixel Art Font](https://ghostern.com/gaming/fonts/pixel-art/)                       | Retro 8-bit gaming text          |
-| [Instagram Font Generator](https://ghostern.com/aesthetic/instagram-font-generator/) | Stylish Unicode text generator   |
-| [Vaporwave Text Generator](https://ghostern.com/aesthetic/vaporwave-text-generator/) | Aesthetic vaporwave text styles  |
-
----
-
-## 🎮 Gaming Utilities
-
-| Tool                                                                                      | Description                               |
-| ----------------------------------------------------------------------------------------- | ----------------------------------------- |
-| [Elden Ring Weapon Calculator](https://ghostern.com/gaming/elden-ring-weapon-calculator/) | Weapon scaling and damage calculations    |
-| [Dark Souls Build Calculator](https://ghostern.com/gaming/dark-souls-build-calculator/)   | Character stat planner                    |
-| [Minecraft Sign Generator](https://ghostern.com/gaming/minecraft/sign-generator/)         | Minecraft wooden sign creator             |
-| [Discord Symbols](https://ghostern.com/gaming/symbols/discord/)                           | Symbols for Discord usernames and servers |
+### Visual tools
+- Image and aesthetic generators
+- Simple UI-based editing utilities
+- Wallpaper and profile inspiration links
 
 ---
 
-## 🖼️ Anime & Wallpaper Resources
+## 🖼️ Related visual resources
 
-| Resource         | Link                                   |
-| ---------------- | -------------------------------------- |
-| Anime Wallpapers | https://ghostern.com/anime/wallpapers/ |
-| Anime PFPs       | https://ghostern.com/anime/pfp/        |
-| Gaming Setups    | https://ghostern.com/gaming/setups/    |
+These resources are part of the same ecosystem and are used across different tools:
 
----
-
-## 🛠️ Built With
-
-* HTML5
-* CSS3
-* JavaScript
-* WordPress
-* Custom UI Components
+- https://ghostern.com/anime/wallpapers/
+- https://ghostern.com/anime/pfp/
+- https://ghostern.com/gaming/setups/
 
 ---
 
-## 📂 Repository Goals
+## 🛠️ Tech Stack
 
-This repository is used to:
+Built using simple web technologies:
+- HTML
+- CSS
+- JavaScript
 
-* organize gaming utility resources
-* improve UI/UX experiments
-* maintain documentation
-* share generator concepts
-* collect gaming aesthetic assets
-
----
-
-## 🤝 Contributions
-
-Suggestions, improvements, and pull requests are welcome.
-
-If you have ideas for:
-
-* new generators
-* gaming utilities
-* anime asset collections
-* UI improvements
-
-feel free to open an issue.
+Some sections are integrated into a WordPress-based system with custom UI components.
 
 ---
 
-## 🌐 Official Website
+## 📌 Project purpose
+
+This repository is mainly used to:
+- organize UI concepts for gaming tools
+- structure generator ideas
+- maintain lightweight tool documentation
+- support visual and aesthetic experiments
+
+---
+
+## 🌐 Website
 
 https://ghostern.com
 
