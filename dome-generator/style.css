@@ -1,0 +1,36 @@
+body {
+    background: #2d2d2d;
+    color: #fff;
+    font-family: monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.container {
+    text-align: center;
+}
+input, button {
+    padding: 10px;
+    margin: 10px;
+    font-size: 1rem;
+    border-radius: 6px;
+    border: 1px solid #555;
+    background: #1e1e1e;
+    color: #fff;
+}
+button {
+    cursor: pointer;
+    background: #4CAF50;
+    border: none;
+}
+pre {
+    background: #111;
+    padding: 10px;
+    border-radius: 8px;
+    max-height: 400px;
+    overflow: auto;
+    text-align: left;
+    display: inline-block;
+}
