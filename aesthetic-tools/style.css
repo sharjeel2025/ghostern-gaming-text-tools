@@ -1,0 +1,31 @@
+body {
+    background: #222;
+    color: #fff;
+    font-family: 'Courier New', monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.container {
+    text-align: center;
+}
+input {
+    padding: 10px;
+    font-size: 1.2rem;
+    margin: 10px;
+    border-radius: 6px;
+    border: 1px solid #555;
+    background: #111;
+    color: #fff;
+    font-family: inherit;
+}
+.pixel-text {
+    font-size: 3rem;
+    font-weight: bold;
+    color: #ff00ff;
+    text-shadow: 3px 3px 0 #00ffff;
+    letter-spacing: 6px;
+    image-rendering: pixelated;
+}
