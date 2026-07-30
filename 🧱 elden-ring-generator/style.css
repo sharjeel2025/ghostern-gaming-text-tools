@@ -1,0 +1,31 @@
+body {
+    background: #1a0f00;
+    color: #f0e6d0;
+    font-family: 'Georgia', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.container {
+    text-align: center;
+}
+input {
+    padding: 12px;
+    font-size: 1.2rem;
+    margin: 20px 0;
+    border: 2px solid #b8860b;
+    background: #2a1f00;
+    color: #f0e6d0;
+    border-radius: 8px;
+}
+.elden-text {
+    font-size: 3rem;
+    font-weight: bold;
+    background: linear-gradient(45deg, #ffd700, #b8860b, #ffd700);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-shadow: 0 0 20px rgba(255, 215, 0, 0.3);
+    transition: all 0.3s;
+}
