@@ -5,7 +5,7 @@
 
 **Ghostern Gaming Tools** is a collection of **25+ free, browser‑based utilities** for gamers, content creators, and streamers. From Dark Souls and Elden Ring font generators to Minecraft sphere/dome/cone builders, Discord symbol makers, and aesthetic text tools – everything runs **100% client‑side** with **no sign‑up, no watermarks, and no server dependencies**.
 
-> 🚀 Try the live tools at **Ghostern** [Gaming Text Tools Platform](https://ghostern.com) – all generators are free and ready to use instantly.
+> 🚀 Try the live tools at **Ghostern** [Gaming Tools Platform](https://ghostern.com) – all generators are free and ready to use instantly.
 
 ---
 
