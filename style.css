@@ -1,0 +1,29 @@
+body {
+    background: #0a0a0a;
+    color: #fff;
+    font-family: 'Times New Roman', serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+.container {
+    text-align: center;
+}
+input {
+    padding: 12px;
+    font-size: 1.2rem;
+    margin: 20px 0;
+    border: 2px solid #444;
+    background: #111;
+    color: #fff;
+    border-radius: 8px;
+}
+.souls-text {
+    font-size: 3rem;
+    font-weight: bold;
+    text-shadow: 0 0 20px #ff4444, 0 0 40px #aa0000;
+    color: #ff2222;
+    transition: all 0.3s;
+}
