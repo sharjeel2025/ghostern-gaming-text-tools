@@ -109,6 +109,14 @@ We welcome contributions from the community! Here's how you can help:
 
 ---
 
+## 🔗 Related Projects
+
+Check out another free tool from the same developer:
+
+- **[Troll Face Meme Tools](https://github.com/sharjeel2025/trollface-meme-tools)** – A lightweight collection of browser‑based meme generators, rage faces, and troll‑style tools – all free and ready to use instantly.
+
+---
+
 ## 📄 License
 
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
