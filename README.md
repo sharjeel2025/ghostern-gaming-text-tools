@@ -1,91 +1,71 @@
 # Ghostern Gaming Tools
 
-<div align="center">
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-<img src="https://ghostern.com/wp-content/uploads/2024/10/Ghostern-logo.png" width="140" alt="Ghostern Logo">
+Ghostern is a collection of **25+ free, browser-based gaming tools** designed for gamers, content creators, and aesthetic text enthusiasts. Whether you need a "YOU DIED" font, a Minecraft 3D structure, or Discord symbols, Ghostern has you covered. **No sign-up, no watermarks, and 100% client-side processing.**
 
-### Free, browser‑based gaming tools for fonts, Minecraft builders, and aesthetic text
+> 🌐 **Explore the live tools:** [Ghostern.com](https://ghostern.com)
 
-[🌐 Visit Ghostern.com](https://ghostern.com) · [📂 View on GitHub](https://github.com/sharjeel2025/ghostern-gaming-text-tools)
+## ✨ Features
 
-</div>
+### ⚔️ Souls-Like Tools
+- **Dark Souls Font Generator:** Create gothic "YOU DIED" texts and boss banners.
+- **Elden Ring Font Generator:** Gold and silver typography for Tarnished memes.
+- **Elden Ring Weapon AR Calculator:** Real-time Attack Rating calculations with exact formulas.
+- **Elden Ring Health Bar Generator:** Custom boss health bars for YouTube thumbnails.
+- **Dark Souls Build Calculator:** Plan character stats in real-time (VGR, END, STR, DEX, etc.).
 
----
+### ⛏️ Minecraft Builders
+- **3D Generators:** Build perfect Spheres, Domes, and Cones with layer-by-layer blueprints and 3D previews.
+- **Enchanting Table Translator:** Bi-directional translation between English and Standard Galactic Alphabet (SGA).
+- **Sign Generator:** Custom in-game signs with 11 wood types, 16 dye colors, and transparent PNG export.
+- **Build Planner:** Organize multi-phase building projects with block counts.
 
-## 🎯 What is Ghostern?
+### 💬 Discord & Aesthetic Text
+- **Discord Symbol Generator:** 200+ symbols, hearts, and kaomoji for instant copy-paste.
+- **Clan Tag Generator:** Generate bracketed tags ([GRUNT], [SNIPE], [VIP]) for gaming clans.
+- **Pixel Art Font Generator:** Retro 8-bit text with 3D shadows and transparent background.
+- **GTA, Vaporwave & Instagram Fonts:** Stylized Unicode text for social media bios and captions.
 
-Ghostern is a free, browser‑based toolkit for gamers, content creators, and Discord users. It offers **25+ tools** including gaming font generators, Minecraft 3D builders, Discord symbol generators, and aesthetic text utilities.
+## 📸 Screenshots
 
-**Key features:**
-- No sign‑up required
-- No watermarks on downloads
-- Everything runs client‑side (privacy‑first)
-- Works on desktop and mobile
+*(Please save the provided images into an `assets/` folder in your root repository. Below are the expected filenames).*
 
-The platform has served **1.2M+ tool interactions** and is used by **50,000+ monthly active users**.
-
----
-
-## 🧰 Complete Tools List
-
-### ⚔️ Souls‑Like Tools
-
-| Tool | Description |
-|------|-------------|
-| **[Dark Souls Font Generator](https://ghostern.com/gaming/fonts/dark-souls/)** | Create "YOU DIED" text, boss banners, and gothic overlays |
-| **[Elden Ring Font Generator](https://ghostern.com/gaming/fonts/elden-ring/)** | Gold, silver, and dark theme typography |
-| **[Elden Ring Weapon AR Calculator](https://ghostern.com/gaming/elden-ring-weapon-calculator/)** | Calculate Attack Rating for any weapon |
-| **[Elden Ring Health Bar Generator](https://ghostern.com/gaming/elden-ring-health-bar/)** | Custom boss health bars and death screens |
-| **[Dark Souls Build Calculator](https://ghostern.com/gaming/dark-souls-build-calculator/)** | Plan your character stats in real time |
-
-### 🟫 Minecraft Tools
-
-| Tool | Description |
-|------|-------------|
-| **[Minecraft Sphere Generator](https://ghostern.com/gaming/minecraft/sphere-generator/)** | 3D voxel spheres with layer‑by‑layer blueprints |
-| **[Minecraft Dome Generator](https://ghostern.com/gaming/minecraft/dome-generator/)** | Perfect dome structures with 2D/3D preview |
-| **[Minecraft Cone Generator](https://ghostern.com/gaming/minecraft/cone-generator/)** | Voxel cones and spires with hollow mode |
-| **[Minecraft Sign Generator](https://ghostern.com/gaming/minecraft/sign-generator/)** | Custom signs with 11 wood types and 16 dye colours |
-| **[Enchanting Table Translator](https://ghostern.com/gaming/minecraft/enchanting-table-translator/)** | English ↔ Standard Galactic Alphabet |
-| **[Minecraft Build Planner](https://ghostern.com/gaming/minecraft/build-planner/)** | Plan multi‑phase builds with material lists |
-
-### 💬 Discord & Symbols
-
-| Tool | Description |
-|------|-------------|
-| **[Discord Symbol Generator](https://ghostern.com/gaming/symbols/discord/)** | 200+ symbols, hearts, stars, and kaomoji |
-| **[Clan Tag Generator](https://ghostern.com/gaming/symbols/clan-tags/)** | Generate bracketed tags for gaming clans |
-
-### 🎨 Aesthetic & Text Tools
-
-| Tool | Description |
-|------|-------------|
-| **[Pixel Art Font Generator](https://ghostern.com/gaming/fonts/pixel-art/)** | Retro 8‑bit text with 3D shadow effects |
-| **[GTA Font Generator](https://ghostern.com/gaming/fonts/gta/)** | Grand Theft Auto‑style logos |
-| **[Vaporwave Text Generator](https://ghostern.com/aesthetic/vaporwave-text-generator/)** | Full‑width aesthetic Unicode text |
-| **[Instagram Font Generator](https://ghostern.com/aesthetic/instagram-font-generator/)** | Fancy Unicode for bios and captions |
-| **[Image Color Inverter](https://ghostern.com/aesthetic/image-color-inverter/)** | Invert image colours in your browser |
-
----
+| Tool Name | Screenshot |
+| :--- | :--- |
+| YOU DIED / Souls Tools | ![Souls Texts](assets/screenshot01.jpg) |
+| Elden Ring Weapon Calc | ![Weapon Calc](assets/screenshot02.jpg) |
+| Discord Symbols | ![Discord](assets/screenshot03.jpg) |
+| Clan Tag Generator | ![Clan Tags](assets/screenshot04.jpg) |
+| Pixel Art Font | ![Pixel Art](assets/screenshot05.jpg) |
+| Dark Souls Build Calc | ![Build Calc](assets/screenshot06.jpg) |
+| Enchantment Translator | ![Translator](assets/screenshot07.jpg) |
+| Minecraft Cone Tools | ![Cone Tools](assets/screenshot08.jpg) |
+| Cone Generator Guide | ![Cone Guide](assets/screenshot09.jpg) |
+| Minecraft Sphere Tools | ![Sphere Tools](assets/screenshot10.jpg) |
+| Sphere Generator Guide | ![Sphere Guide](assets/screenshot11.jpg) |
+| Dome Generator Guide | ![Dome Guide](assets/screenshot12.jpg) |
+| Minecraft Build Tools | ![Build Tools](assets/screenshot13.jpg) |
+| Enchanting Table Guide | ![Enchanting Guide](assets/screenshot14.jpg) |
+| Enchanting Translator UI | ![Translator UI](assets/screenshot15.jpg) |
+| Elden Ring Font UI | ![Font UI](assets/screenshot16.jpg) |
 
 ## 🛠️ Technology Stack
 
-| Layer | Technologies |
-|-------|--------------|
-| **Frontend** | HTML5, CSS3, Vanilla JavaScript, Canvas API, WebGL |
-| **Rendering** | HTML5 Canvas 2D (primary), WebGL (fallback) |
-| **Backend** | PHP, WordPress (for content management) |
-| **Performance** | Chrome DevTools, Lighthouse, requestAnimationFrame |
-| **Hosting** | Shared hosting (static asset delivery) |
+- **Core:** HTML5, CSS3, Vanilla JavaScript
+- **2D Rendering:** HTML Canvas API
+- **3D Rendering:** WebGL, Three.js, and OrbitControls
+- **Backend:** PHP / WordPress (only used for content management, logic is 100% client-side)
+- **Performance:** Chrome DevTools, Lighthouse optimized
 
-All tools are built with **no external dependencies** – they are lightweight, fast‑loading, and mobile‑first.
+## 📂 Repository Structure
 
----
-
-## 🖥️ Live Website
-
-The live platform is available at: **[ghostern.com](https://ghostern.com/)**
-
----
-
-## 📁 Repository Structure
+```text
+ghostern-gaming-tools/
+├── index.html                   # Main Landing Page (Source Code)
+├── README.md                    # Documentation
+├── assets/                      # Screenshots
+│   ├── screenshot01.jpg
+│   └── ... (screenshot16.jpg)
+├── .gitignore                   # Git ignore file
+└── LICENSE                      # MIT License file
