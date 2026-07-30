@@ -5,7 +5,7 @@
 
 **Ghostern Gaming Tools** is a collection of **25+ free, browser‑based utilities** for gamers, content creators, and streamers. From Dark Souls and Elden Ring font generators to Minecraft sphere/dome/cone builders, Discord symbol makers, and aesthetic text tools – everything runs **100% client‑side** with **no sign‑up, no watermarks, and no server dependencies**.
 
-> 🚀 Try the live tools at **Ghostern** [Gaming Tools Platform](https://ghostern.com) – all generators are free and ready to use instantly.
+> 🚀 Try the live tools at **Ghostern** [Gaming Text Tools Platform](https://ghostern.com) – all generators are free and ready to use instantly.
 
 ---
 
@@ -13,11 +13,11 @@
 
 | Minecraft Sphere & Dome Generator | Elden Ring Boss Death Banner |
 |-----------------------------------|------------------------------|
-| [![Minecraft Spheres and Domes](https://ghostern.com/wp-content/uploads/2026/07/Minecraft-Spheres-and-Domes.png)](https://ghostern.com) | [![Elden Ring boss death banner](https://ghostern.com/wp-content/uploads/2026/07/elden-ring-boss-death-screan-meme-banner-guide.png)](https://ghostern.com) |
+| [![Minecraft Spheres and Domes](https://ghostern.com/wp-content/uploads/2026/07/Minecraft-Spheres-and-Domes.png)](https://ghostern.com/gaming/minecraft/sphere-generator/) | [![Elden Ring boss death banner](https://ghostern.com/wp-content/uploads/2026/07/elden-ring-boss-death-screan-meme-banner-guide.png)](https://ghostern.com/gaming/elden-ring-health-bar/) |
 
-| Dark Souls Font Generator | Elden Ring Health Bar Maker |
-|---------------------------|-----------------------------|
-| [![Dark Souls Font Generator](https://ghostern.com/wp-content/uploads/2026/05/Dark-Souls-Font-Generator-–-Live-Preview-Interface-Displays-the-tools-main-header.png)](https://ghostern.com) | [![Elden Ring Health Bar](https://ghostern.com/wp-content/uploads/2026/07/Elden-Ring-Boss-Meme-Generator-Create-Your-Own-Health-Bar.png)](https://ghostern.com) |
+| Dark Souls Font Generator | Elden Ring Font Generator |
+|---------------------------|---------------------------|
+| [![Dark Souls Font Generator](https://ghostern.com/wp-content/uploads/2026/05/Dark-Souls-Font-Generator-–-Live-Preview-Interface-Displays-the-tools-main-header.png)](https://ghostern.com/gaming/fonts/dark-souls/) | [![Elden Ring Font Generator](https://ghostern.com/wp-content/uploads/2026/07/Elden-Ring-Boss-Meme-Generator-Create-Your-Own-Health-Bar.png)](https://ghostern.com/gaming/fonts/elden-ring/) |
 
 ---
 
@@ -127,10 +127,8 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 - [🌐 Ghostern.com – Live Tools](https://ghostern.com)
 - [📂 GitHub Repository](https://github.com/sharjeel2025/ghostern-gaming-text-tools)
-- [📝 Documentation & Guides](https://ghostern.com/blog/)
 
 ---
 
 Built with ❤️ by [Sharjeel](https://github.com/sharjeel2025) and the Ghostern community.  
 *Free forever · No sign‑up · No watermarks*
-```
