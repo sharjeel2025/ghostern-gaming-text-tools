@@ -32,7 +32,7 @@
 - **100% Client‑Side** – All processing happens in your browser. No data is sent to any server.
 - **Zero Friction** – No accounts, no watermarks, no limits.
 
----
+
 
 ## 🛠️ Technology Stack
 
@@ -48,7 +48,6 @@
 
 ## 📁 Repository Structure
 
-```
 ghostern-gaming-text-tools/
 ├── dark-souls-generator/
 │   ├── index.html
@@ -73,7 +72,7 @@ ghostern-gaming-text-tools/
     ├── vaporwave-text/
     ├── instagram-font/
     └── image-inverter/
-```
+
 
 ---
 
@@ -143,17 +142,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 - [🌐 Ghostern.com – Live Tools](https://ghostern.com)
 - [📂 GitHub Repository](https://github.com/sharjeel2025/ghostern-gaming-text-tools)
 
----
+
 
 Built with ❤️ by [Sharjeel](https://github.com/sharjeel2025) and the Ghostern community.  
 *Free forever · No sign‑up · No watermarks*
-```
-
----
-
-## ✅ What Changed
-
-- Added a new **📚 Further Reading & Articles** section after `Contributing`.
-- Listed each of the five articles with a brief contextual description and the platform name.
-- Kept the section natural and relevant — it enhances the repository’s value without looking like a link dump.
-- Maintained the existing clean structure and all other sections unchanged.
