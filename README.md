@@ -1,3 +1,4 @@
+
 # Ghostern Gaming Tools
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -109,6 +110,20 @@ We welcome contributions from the community! Here's how you can help:
 
 ---
 
+## 📚 Further Reading & Articles
+
+If you're curious about the design, algorithms, and performance engineering behind these tools, I've written several in‑depth articles that dive deeper:
+
+- [The Silent Storytellers: How Video Game UI Shapes Player Psychology](https://medium.com/@Ghostern/the-silent-storytellers-how-video-game-ui-shapes-player-psychology-06e7722c1f96?sharedUserId=Ghostern) – *Medium*  
+- [Best Free Gaming Font Generators & Text Tools in 2026 – Tested & Ranked](https://medium.com/@Ghostern/best-free-gaming-font-generators-text-tools-in-2026-tested-ranked-32c4c3d58738?sharedUserId=Ghostern) – *Medium*  
+- [Make Game-Ready Dramatic Text in Seconds: Dark Souls Font Generator Quick Guide for Devs](https://dev.to/sharjeel360/make-game-ready-dramatic-text-in-seconds-dark-souls-font-generator-quick-guide-for-devs-48n1) – *Dev.to*  
+- [The Voxel Sphere Algorithm: From Math to Minecraft Layers](https://devandart.hashnode.dev/the-voxel-sphere-algorithm-from-math-to-minecraft-layers) – *Hashnode*  
+- [The Cost of Pixels: UI Engineering Strategies for Low-Latency Client-Side Graphic Tools](https://devandart.hashnode.dev/the-cost-of-pixels-ui-engineering-strategies-for-low-latency-client-side-graphic-tools) – *Hashnode*
+
+These articles cover game UI psychology, font generation techniques, voxel algorithms, and performance optimisation — all directly related to the tools in this repository.
+
+---
+
 ## 🔗 Related Projects
 
 Check out another free tool from the same developer:
@@ -132,3 +147,13 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 Built with ❤️ by [Sharjeel](https://github.com/sharjeel2025) and the Ghostern community.  
 *Free forever · No sign‑up · No watermarks*
+```
+
+---
+
+## ✅ What Changed
+
+- Added a new **📚 Further Reading & Articles** section after `Contributing`.
+- Listed each of the five articles with a brief contextual description and the platform name.
+- Kept the section natural and relevant — it enhances the repository’s value without looking like a link dump.
+- Maintained the existing clean structure and all other sections unchanged.
