@@ -45,7 +45,7 @@
 | PHP / WordPress | Content management (not required for tools) |
 
 ---
-
+---
 ## 📁 Repository Structure
 
 ghostern-gaming-text-tools/
@@ -72,7 +72,7 @@ ghostern-gaming-text-tools/
     ├── vaporwave-text/
     ├── instagram-font/
     └── image-inverter/
-
+---
 
 ---
 
